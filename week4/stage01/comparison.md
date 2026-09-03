@@ -1,0 +1,3 @@
+Part E Compare Human and AI Versions
+
+Both the human and AI versions were easy to understand and ran successfully. The human version used simple concepts such as a list, dictionary and functions. The AI version used a similar structure but added validation for all three appointment details. Both versions only used the required features and did not include a database or GUI. The human version made minimal assumptions, while the AI version assumed that the patient name, practitioner name and appointment time must all be provided. For error handling, the human version only checked for a blank patient name, while the AI version checked all three appointment details. Overall, I could explain both versions because they use similar concepts and are simple to understand.
